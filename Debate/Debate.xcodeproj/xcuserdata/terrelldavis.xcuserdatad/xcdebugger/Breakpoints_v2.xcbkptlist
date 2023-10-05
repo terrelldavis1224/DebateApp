@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7B2DF402-3DA2-4CC1-AC38-8D72E6617262"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "203C4A7D-03B5-46E3-9E32-EC344496812B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "203C4A7D-03B5-46E3-9E32-EC344496812B - dd7288ae76f99453"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debate.ContentView.User.getter : Debate.User"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/nextbigthing/Debate/Debate/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "203C4A7D-03B5-46E3-9E32-EC344496812B - d77819a19e5266c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debate.ContentView.$User.getter : SwiftUI.EnvironmentObject&lt;Debate.User&gt;.Wrapper"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/nextbigthing/Debate/Debate/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "203C4A7D-03B5-46E3-9E32-EC344496812B - 6c39e234e6f780ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debate.ContentView.init() -&gt; Debate.ContentView"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/nextbigthing/Debate/Debate/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "203C4A7D-03B5-46E3-9E32-EC344496812B - abcf943dc58a3918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debate.ContentView.User.getter : Debate.User"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate_App%20(Huu%20April%202)/Debate(Huu%20April%2013)/Debate/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "203C4A7D-03B5-46E3-9E32-EC344496812B - a1c505322d21cb82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debate.ContentView.$User.getter : SwiftUI.EnvironmentObject&lt;Debate.User&gt;.Wrapper"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate_App%20(Huu%20April%202)/Debate(Huu%20April%2013)/Debate/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "203C4A7D-03B5-46E3-9E32-EC344496812B - 1a84fea755842de0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debate.ContentView.init() -&gt; Debate.ContentView"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate_App%20(Huu%20April%202)/Debate(Huu%20April%2013)/Debate/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EB03BDE-1CB6-4DB3-80D9-3B23024A3079"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "getUserInfo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82D75E75-469B-44EB-A9C0-F99C4A49E417"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Login/QuizView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B406009-076F-4AA9-A0AA-7DD59047B14B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Debate/DebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "365"
+            endingLineNumber = "365"
+            landmarkName = "DebateView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "8B406009-076F-4AA9-A0AA-7DD59047B14B - 1c095db10ef614d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Debate.DebateView.getTime() -&gt; Swift.Int64"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate%20what%20I%20am%20working%20on/Debate(Huu%20May%207)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "343"
+                  endingLineNumber = "343"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+               <Location
+                  uuid = "8B406009-076F-4AA9-A0AA-7DD59047B14B - f206be1bbe8e13e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debate.DebateView.getTime() -&gt; Swift.Int64"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate%20what%20I%20am%20working%20on/Debate(Huu%20May%207)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "323"
+                  endingLineNumber = "323"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "8B406009-076F-4AA9-A0AA-7DD59047B14B - 1c095db10ef6c39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Debate.DebateView.getTime() -&gt; Swift.Int64"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate%20what%20I%20am%20working%20on/Debate(Huu%20May%207)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "323"
+                  endingLineNumber = "323"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "932527B0-9A36-44E7-91CA-653769EBB685"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Debate/DebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "371"
+            endingLineNumber = "371"
+            landmarkName = "t"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "932527B0-9A36-44E7-91CA-653769EBB685 - 1c095db10ef6373"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Debate.DebateView.getTime() -&gt; Swift.Int64"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate%20what%20I%20am%20working%20on/Debate(Huu%20May%207)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "329"
+                  endingLineNumber = "329"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "932527B0-9A36-44E7-91CA-653769EBB685 - 1c095db10ef6331"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Debate.DebateView.getTime() -&gt; Swift.Int64"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate%20what%20I%20am%20working%20on/Debate(Huu%20May%207)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "331"
+                  endingLineNumber = "331"
+                  offsetFromSymbolStart = "668">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B08291C-15C6-4B70-B84B-084D3FD046C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Debate/DebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "MessageField"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D35F6A7-E1F6-478A-A7DF-AC710C81DD4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Debate/DebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "MessageField"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F4DCE3D-8B8A-4A9D-AF8B-F48308ECC5D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Debate/DebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "MessageField"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B064205A-A8F3-4AF6-8696-4C9725C25127"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Debate/DebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "MessageField"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79765F65-C1D2-410D-B603-88BBF50E326E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Past_Debate/PastDebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F1B8E1F-0810-4A85-AAB2-D1B43F5D0608"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Debate/DebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "updateVote1(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7F1B8E1F-0810-4A85-AAB2-D1B43F5D0608 - 3371b31cbd508189"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debate.MessageField.updateVote1(Swift.Int) -&gt; ()"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate(terrell%20May%2011)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "7F1B8E1F-0810-4A85-AAB2-D1B43F5D0608 - 3371b31cbd5081a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Debate.MessageField.updateVote1(Swift.Int) -&gt; ()"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate(terrell%20May%2011)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "214"
+                  endingLineNumber = "214"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97E96D95-B36A-4DF1-9400-FF64C4A4FCE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Debate/DebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "593"
+            endingLineNumber = "593"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15370633-E6F2-473A-BAF9-04EA9E6F74D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Debate/DebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "592"
+            endingLineNumber = "592"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A48DD7A-0C4D-4BD2-9835-3834CAAFD9CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Past_Debate/PastDebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEC9F5E6-9A4A-450C-BB45-F93D54492E3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Model.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "getUserInfo()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03182773-9373-4F05-9A8E-55274ACCF33B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Login/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
+            landmarkName = "login()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C80D0981-38B0-47B2-B9F1-7093A34C2F9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Debate/Debate/DebateView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "copyDoc()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C80D0981-38B0-47B2-B9F1-7093A34C2F9C - 301030f5144aab76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Debate.MessageField.copyDoc() -&gt; ()"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate(terrell%20May%2011)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1408">
+               </Location>
+               <Location
+                  uuid = "C80D0981-38B0-47B2-B9F1-7093A34C2F9C - 301030f5144aab76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Debate.MessageField.copyDoc() -&gt; ()"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate(terrell%20May%2011)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1612">
+               </Location>
+               <Location
+                  uuid = "C80D0981-38B0-47B2-B9F1-7093A34C2F9C - 301030f5144aab76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Debate.MessageField.copyDoc() -&gt; ()"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate(terrell%20May%2011)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1716">
+               </Location>
+               <Location
+                  uuid = "C80D0981-38B0-47B2-B9F1-7093A34C2F9C - 301030f5144aab76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Debate.MessageField.copyDoc() -&gt; ()"
+                  moduleName = "Debate"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terrelldavis/Desktop/Debate(terrell%20May%2011)/Debate/Debate/DebateView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1928">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
