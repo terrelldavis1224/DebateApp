@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>227908284186-t0fu25bkrih0d6rbrp5kh5ilqc7rmmeh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.227908284186-t0fu25bkrih0d6rbrp5kh5ilqc7rmmeh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAOJQvU9QRAsJaSSSpO_yAGBvTj-azNrZU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>227908284186</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>tdavis27-terpmail.umd.edu.Debate</string>
+	<key>PROJECT_ID</key>
+	<string>debate-c3f87</string>
+	<key>STORAGE_BUCKET</key>
+	<string>debate-c3f87.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:227908284186:ios:dea5540bf5ece2a50d06a3</string>
+</dict>
+</plist>
